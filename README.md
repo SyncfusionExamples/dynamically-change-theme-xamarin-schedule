@@ -1,2 +1,2 @@
-# dynamically-change-theme-xamarin-schedule
-How to dynamically change the themes in Xamarin Schedule (SfSchedule)
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12251/how-to-show-a-particular-week-in-a-day-view-of-xamarin-schedule-sfschedule)**
+
